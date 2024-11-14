@@ -1,0 +1,1 @@
+from .base.vehicle_base2 import *

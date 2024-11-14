@@ -1,0 +1,39 @@
+2024-07-11 10:30:00,586-controller2.py-[line:306]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:30:27,660-controller2.py-[line:306]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:31:19,997-controller2.py-[line:306]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:31:29,650-controller2.py-[line:306]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:32:20,604-controller2.py-[line:307]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:32:24,087-controller2.py-[line:307]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:33:11,094-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:33:17,563-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:33:32,208-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 10:59:32,868-controller2.py-[line:271]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-07-11 10:59:55,372-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:00:40,054-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:00:43,295-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:01:28,028-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:03:52,282-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:04:51,441-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:05:20,016-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:07:55,036-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:09:08,715-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:09:14,447-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:11:44,727-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:14:15,870-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:14:15,935-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:14:38,623-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:14:38,669-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:17:19,411-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:17:19,460-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:27:40,038-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:27:40,089-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:34:41,169-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:34:41,220-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:35:11,372-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:35:11,414-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:36:40,042-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:36:40,090-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:37:39,001-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:37:39,045-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
+2024-07-11 11:38:23,776-controller2.py-[line:305]-INFO-[log]:ping:COM3 ok, res:b'wh\x04\n'
+2024-07-11 11:38:23,820-vehicle_base2.py-[line:485]-INFO-[log]:mecanum init
